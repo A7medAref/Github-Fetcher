@@ -1,0 +1,24 @@
+.pie
+{
+    width: 30vw;
+    font-weight: bold;
+}
+.bars
+{
+    width: 46vw;
+}
+.bars_inside
+{
+    font-weight: bold;
+}
+@media (max-width:1200px) {
+    .pie
+    {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .bars
+    {
+        width: 100%;
+    }
+}

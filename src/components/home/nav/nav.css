@@ -1,0 +1,26 @@
+section.nav
+{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section.nav > p
+{color: #444;padding-right: 30px;font-size: 20px;}
+section.nav > p > span
+{
+    font-size: 21px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+section > h2
+{
+    color: #636363;
+    cursor: pointer;
+}

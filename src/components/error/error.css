@@ -1,0 +1,28 @@
+main.errorPage
+{
+    height: 100vh;
+    background-color: #5089C6;
+    display: grid;
+    place-content: center;
+    font-weight: bold;
+}
+main.errorPage > h1
+{
+    font-size: 130px;
+    color: white;
+    text-transform: uppercase;
+}
+main.errorPage > p
+{
+    margin: auto;
+    color :#ddd;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.btn-error
+{
+    width: fit-content;
+    margin: 50px auto;
+    background-color:#2541B2;
+    text-transform: capitalize;
+}
