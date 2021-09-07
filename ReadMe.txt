@@ -1,3 +1,4 @@
+This is a github fetcher to fetch any information about any github user
 
 before starting run this command 
 => npm install
